@@ -1,0 +1,22 @@
+{
+  "name": "myfirstelectronapp",
+  "version": "1.0.0",
+  "description": "Electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolbin-prime/MyElectronToy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolbin-prime/MyElectronToy/issues"
+  },
+  "homepage": "https://github.com/dolbin-prime/MyElectronToy#readme",
+  "devDependencies": {
+    "electron": "^22.2.0"
+  }
+}
